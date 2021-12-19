@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/calender/static/css/main.a9d175cf.css",
+    "main.js": "/github.io/calender/static/js/main.4e27aab6.js",
+    "static/js/787.f5b86619.chunk.js": "/github.io/calender/static/js/787.f5b86619.chunk.js",
+    "index.html": "/github.io/calender/index.html",
+    "main.a9d175cf.css.map": "/github.io/calender/static/css/main.a9d175cf.css.map",
+    "main.4e27aab6.js.map": "/github.io/calender/static/js/main.4e27aab6.js.map",
+    "787.f5b86619.chunk.js.map": "/github.io/calender/static/js/787.f5b86619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d175cf.css",
+    "static/js/main.4e27aab6.js"
+  ]
+}
